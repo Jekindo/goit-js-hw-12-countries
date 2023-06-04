@@ -1,0 +1,14 @@
+.search-input {
+  min-width: 300px;
+  padding: 10px 15px;
+
+  border: 1px solid #6d6b6b;
+  border-radius: 6px;
+
+  outline: none;
+
+  &:hover,
+  &:focus {
+    border-color: #2196f3;
+  }
+}
