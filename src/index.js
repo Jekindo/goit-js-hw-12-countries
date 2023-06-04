@@ -6,6 +6,7 @@ import getRefs from './js/references/get-refs';
 import fetchCountries from './js/services/fetchCountries';
 import renderCountryCard from './js/templates/render-country-card';
 import renderCountriesList from './js/templates/render-coutries-list';
+import clearSearchResults from './js/clear-search-results'
 
 const refs = getRefs();
 
